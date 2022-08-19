@@ -1,0 +1,2 @@
+202000098	Rohan	CSE	5	rohanshrivastava10000@gmail.com	12/12/22	5	0	A	305000	305000	0	Paid	lumpsum
+202000001	Hero	IT	7	hero@gmail.com	22/12/22	1	0	A	305000	3500	301500	Due	lumpsum
